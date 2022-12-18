@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple.Lib", "InterfaceSegregationPrinciple.Lib\InterfaceSegregationPrinciple.Lib.csproj", "{3C799F19-CECB-40FA-9686-3FB7CFBBAD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple.ConsoleTest", "InterfaceSegregationPrinciple.ConsoleTest\InterfaceSegregationPrinciple.ConsoleTest.csproj", "{C528A8BD-3747-4F9C-B602-99F9A89A12F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple.ConsoleLib", "InterfaceSegregationPrinciple.ConsoleLib\InterfaceSegregationPrinciple.ConsoleLib.csproj", "{CE89FABF-7679-4ADE-BC16-E547A33A4100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C799F19-CECB-40FA-9686-3FB7CFBBAD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C799F19-CECB-40FA-9686-3FB7CFBBAD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C799F19-CECB-40FA-9686-3FB7CFBBAD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C799F19-CECB-40FA-9686-3FB7CFBBAD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C528A8BD-3747-4F9C-B602-99F9A89A12F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C528A8BD-3747-4F9C-B602-99F9A89A12F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C528A8BD-3747-4F9C-B602-99F9A89A12F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C528A8BD-3747-4F9C-B602-99F9A89A12F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE89FABF-7679-4ADE-BC16-E547A33A4100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE89FABF-7679-4ADE-BC16-E547A33A4100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE89FABF-7679-4ADE-BC16-E547A33A4100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE89FABF-7679-4ADE-BC16-E547A33A4100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
